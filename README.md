@@ -3,7 +3,7 @@
 
 There are mainly 3 projects in this repository.
 
-<u>Wordle:</u> the viral game from last year was simulated using java and data sctructures alone.
+<ins>Wordle:</ins> the viral game from last year was simulated using java and data sctructures alone.
 
 <u>Wordle Helper:</u> this code is supposed to help a player playing wordle by suggesting potential words that can be the answer
 
